@@ -1,3 +1,8 @@
+Disclamer
+--------
+forked verson from : https://github.com/mps-youtube/pafy
+replaced literally of lines of code to use yt-dlp instead youtube_dl as pafy backend
+
 .. image:: https://img.shields.io/pypi/v/Pafy.svg
     :target: https://pypi.python.org/pypi/pafy
 .. image:: https://img.shields.io/pypi/dm/Pafy.svg
